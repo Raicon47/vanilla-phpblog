@@ -14,7 +14,7 @@ Clone this rep using // git clone https://github.com/Raicon47/vanilla-phpblog.gi
 
 Get the database file from the "db_file" folder.
 
-Launch the application on your local WAMP, XXAMP or MAMP server
+Launch the application on your local WAMP or XXAMP server
 
 Go to "localhost/admin/dashboard.php" to access the dashboard
 
